@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>First_Site</title>
+		<link href='main.css' rel='stylesheet'>
+	</head>
+	<body>
+		<h1>Hello</1>
+		<p>
+		<h4><em> This is Italic </em></h4>
+		<h4><strong> This is bold </strong></h4>
+		<p/>
+	<ul>
+		<li> Unordered list **</li>
+		<li> Unordered list &&&</li>
+	<p><ol> 
+		<li> Ordered list 1 </li>
+		<li> Ordered list 2 </li> </p>
+	<p> <a href = "http://wwww.google.com"> This is a link to Google</a>
+	</body>
+	</html>
